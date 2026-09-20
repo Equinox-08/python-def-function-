@@ -1,4 +1,3 @@
-# python-def-function-
 # Student Grade Evaluator (`def` Function Activity)
 
 ## Description
